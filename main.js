@@ -73,28 +73,3 @@ xhr.onload = function() {
 
 xhr.open('GET', 'cat_food.json');
 xhr.send();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
